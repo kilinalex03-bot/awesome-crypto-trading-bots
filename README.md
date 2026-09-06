@@ -48,6 +48,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
 Production-grade Rust-native trading engine with deterministic event-driven architecture
+* [binance-liquidation-tracker](https://github.com/kilinalex03-bot/binance-liquidation-tracker) - Async Python engine to process Binance WebSocket liquidation events.
 ## Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
